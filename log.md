@@ -1,22 +1,27 @@
-# 100 Days Of Code - Log
+# 100 Days Of Learning to Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 12, 2024 (Sunday)
+#### learning Time: 2+ hr
+##### Learning Foundation Course on The Odin Project 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+1. Introduction
+(How This Course Will Work, Introduction to Web Development, Motivation and Mindset, Asking For Help, Join the Odin Community)
+2. Prerequisites
+(Computer Basics, How Does the Web Work? Installation Overview, Installations, Text Editors)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Started on Sunday, It was bit boring but worked more than 2 hours
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [TOP](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: May 13, 2024 (Monday)
+#### learning Time: 2+ hr
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Command Line Basics
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I have learned it previously but still learning it again. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to **: [TOP](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
 
 ### Day 1: June 27, Monday
