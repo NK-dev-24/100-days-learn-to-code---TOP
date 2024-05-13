@@ -21,7 +21,7 @@
 
 **Thoughts**: I have learned it previously but still learning it again. 
 
-**Link to **: [TOP](https://www.theodinproject.com/lessons/foundations-command-line-basics)
+**Link to work:** [TOP](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
 
 ### Day 1: June 27, Monday
