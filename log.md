@@ -10,7 +10,7 @@
 2. Prerequisites
 (Computer Basics, How Does the Web Work? Installation Overview, Installations, Text Editors)
 
-**Thoughts:** Started on Sunday, It was bit boring but worked more than 2 hours
+**Thoughts:** Started on Sunday, It was a bit boring but worked more than 2 hours
 
 **Link to work:** [TOP](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
@@ -24,12 +24,13 @@
 **Link to work:** [TOP](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
 
-### Day 1: June 27, Monday
+### Day 3: May 14, 2024 (Tuesday)
+#### Learning Time: 45 min
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I had completed one page in a course page of Command Line Basics
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Today I had not managed my time properly, I had completed a bit of today's work during the sleeping hours
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Working With Files and Directories](https://swcarpentry.github.io/shell-novice/03-create.html)
+in the [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
