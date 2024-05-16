@@ -34,3 +34,25 @@
 **Link(s) to work**
 1. [Working With Files and Directories](https://swcarpentry.github.io/shell-novice/03-create.html)
 in the [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
+
+
+### Day 3: May 14, 2024 (Wednesday)
+#### Learning Time:  1:30+ hr
+
+**Today's Progress**: Completed the Command Line Basics 
+
+**Thoughts** Today vm got full, so installed the os again & completd the set up again. 
+
+**Link(s) to work**
+1.[Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
+
+
+### Day 5: May 14, 2024 (Thursday)
+#### Learning Time: 120+ mins
+
+**Today's Progress**: (Setting up Git), Git Basics (Introduction to Git, Git Basics), HTML Foundations (Introduction to HTML and CSS)
+
+**Thoughts**: Learned about Git,and web basics.
+
+**Link(s) to course: ** https://www.theodinproject.com/paths/foundations/courses/foundations
+
