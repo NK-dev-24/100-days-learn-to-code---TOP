@@ -56,3 +56,16 @@ in the [Command Line Basics](https://www.theodinproject.com/lessons/foundations-
 
 **Link(s) to course: ** https://www.theodinproject.com/paths/foundations/courses/foundations
 
+### Friday and Saturday - Unavoidable personal/proferssional work
+
+### Day 6: May 14, 2024 (Sunday)
+#### Learning Time: 2h 30m+ 
+
+**Today's Progress**: 
+HTML Foundations
+(Introduction to HTML and CSS, Elements and Tags,HTML Boilerplate,Working with Text,Lists,Links and Images)
+
+**Thoughts**: I previously know the basics of HTML, so it was easy to recall
+
+**Link(s) to course: ** [HTML Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
+
