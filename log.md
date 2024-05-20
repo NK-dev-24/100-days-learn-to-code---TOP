@@ -36,7 +36,7 @@
 in the [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
 
-### Day 3: May 14, 2024 (Wednesday)
+### Day 3: May 15, 2024 (Wednesday)
 #### Learning Time:  1:30+ hr
 
 **Today's Progress**: Completed the Command Line Basics 
@@ -47,7 +47,7 @@ in the [Command Line Basics](https://www.theodinproject.com/lessons/foundations-
 1.[Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
 
-### Day 5: May 14, 2024 (Thursday)
+### Day 5: May 16, 2024 (Thursday)
 #### Learning Time: 120+ mins
 
 **Today's Progress**: (Setting up Git), Git Basics (Introduction to Git, Git Basics), HTML Foundations (Introduction to HTML and CSS)
@@ -58,7 +58,7 @@ in the [Command Line Basics](https://www.theodinproject.com/lessons/foundations-
 
 ### Friday and Saturday - Unavoidable personal/proferssional work
 
-### Day 6: May 14, 2024 (Sunday)
+### Day 6: May 19, 2024 (Sunday)
 #### Learning Time: 2h 30m+ 
 
 **Today's Progress**: 
@@ -68,4 +68,17 @@ HTML Foundations
 **Thoughts**: I previously know the basics of HTML, so it was easy to recall
 
 **Link(s) to course: ** [HTML Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
+
+### Day 7: May 20, 2024 (Monday)
+#### Learning Time: 3h
+
+**Today's Progress**: 
+HTML Foundations
+(Commit Messages,Project: Recipes)
+
+**Thoughts**: I had made a Recipe website with only HTML, uploaded in GitHub using Git and VSCode
+
+**Link(s) to course: ** [HTML Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
+**Link(s) to work: ** [Live preview](https://nk-dev-24.github.io/odin-recipes/)
+                      [GitHub repo](https://github.com/NK-dev-24/odin-recipes)
 
