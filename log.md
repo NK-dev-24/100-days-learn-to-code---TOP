@@ -12,7 +12,7 @@
 
 **Thoughts:** Started on Sunday, It was a bit boring but worked more than 2 hours
 
-**Link to work:** [TOP](https://www.theodinproject.com/paths/foundations/courses/foundations)
+**Link to Course:** [TOP](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
 ### Day 2: May 13, 2024 (Monday)
 #### learning Time: 2+ hr
@@ -31,7 +31,7 @@
 
 **Thoughts** Today I had not managed my time properly, I had completed a bit of today's work during the sleeping hours
 
-**Link(s) to work**
+**Link(s) to Course**
 1. [Working With Files and Directories](https://swcarpentry.github.io/shell-novice/03-create.html)
 in the [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
@@ -54,7 +54,7 @@ in the [Command Line Basics](https://www.theodinproject.com/lessons/foundations-
 
 **Thoughts**: Learned about Git,and web basics.
 
-**Link(s) to course: ** https://www.theodinproject.com/paths/foundations/courses/foundations
+**Link(s) to course:** https://www.theodinproject.com/paths/foundations/courses/foundations
 
 ### Friday and Saturday - Unavoidable personal/proferssional work
 
@@ -67,18 +67,28 @@ HTML Foundations
 
 **Thoughts**: I previously know the basics of HTML, so it was easy to recall
 
-**Link(s) to course: ** [HTML Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
+**Link(s) to course:** [HTML Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
 
 ### Day 7: May 20, 2024 (Monday)
 #### Learning Time: 3h
 
-**Today's Progress**: 
-HTML Foundations
+**Today's Progress**:HTML Foundations
 (Commit Messages,Project: Recipes)
 
 **Thoughts**: I had made a Recipe website with only HTML, uploaded in GitHub using Git and VSCode
 
-**Link(s) to course: ** [HTML Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
-**Link(s) to work: ** [Live preview](https://nk-dev-24.github.io/odin-recipes/)
+**Link(s) to course:** [HTML Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
+**Link(s) to work:** [Live preview](https://nk-dev-24.github.io/odin-recipes/)
                       [GitHub repo](https://github.com/NK-dev-24/odin-recipes)
+
+### Day 8: May 21, 2024 (Sunday)
+#### Learning Time: 3h+
+
+**Today's Progress**: CSS Foundations
+(Intro to CSS)
+
+**Thoughts**: Started CSS, practiced but wasted more time
+
+**Link(s) to course:** [CSS Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations)
+**Link(s) to work:** [Practice CSS](https://github.com/NK-dev-24/TOP-css-exercises-/tree/main/foundations)
 
