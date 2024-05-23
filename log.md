@@ -79,9 +79,9 @@ HTML Foundations
 
 **Link(s) to course:** [HTML Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
 **Link(s) to work:** [Live preview](https://nk-dev-24.github.io/odin-recipes/)
-                      [GitHub repo](https://github.com/NK-dev-24/odin-recipes)
+                      [GitHub repo](https://github.com/NK-dev-24/odin-recipes) (Only HTML)
 
-### Day 8: May 21, 2024 (Sunday)
+### Day 8: May 21, 2024 (Tuesday)
 #### Learning Time: 3h+
 
 **Today's Progress**: CSS Foundations
@@ -92,3 +92,15 @@ HTML Foundations
 **Link(s) to course:** [CSS Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations)
 **Link(s) to work:** [Practice CSS](https://github.com/NK-dev-24/TOP-css-exercises-/tree/main/foundations)
 
+
+### Day 9: May 22, 2024 (Wednesday)
+#### Learning Time: 50m+
+
+**Today's Progress**: CSS Foundations
+(Intro to CSS, The Cascade, Inspecting HTML and CSS)
+
+**Thoughts**: Added style to Project: Recipe(Build for Practicing HTML), and learned about DevTools
+
+**Link(s) to course:** [CSS Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations)
+**Link(s) to work:** [Live preview](https://nk-dev-24.github.io/odin-recipes/)
+                     [GitHub repo](https://github.com/NK-dev-24/odin-recipes) (Only style related)
