@@ -104,3 +104,24 @@ HTML Foundations
 **Link(s) to course:** [CSS Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations)
 **Link(s) to work:** [Live preview](https://nk-dev-24.github.io/odin-recipes/)
                      [GitHub repo](https://github.com/NK-dev-24/odin-recipes) (Only style related)
+
+### Day 10: May 23, 2024 (Thursday)
+#### Learning Time: 4h 10m
+
+**Today's Progress**: CSS Foundations
+(Inspecting HTML and CSS. The Box Model, Block and Inline)
+
+**Thoughts**: Twicked the Recipe project with css and learned about css
+**Link(s) to course:** [CSS Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations)
+**Link(s) to work:** [Live preview](https://nk-dev-24.github.io/odin-recipes/)
+                     [GitHub repo](https://github.com/NK-dev-24/odin-recipes) (Only style related)
+
+
+### Day 11: May 24, 2024 (friday)
+#### Learning Time: 1h 10m
+
+**Today's Progress**: Flexbox
+(Introduction to Flexbox)
+
+**Thoughts**: Flex box
+**Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
