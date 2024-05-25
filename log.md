@@ -117,7 +117,7 @@ HTML Foundations
                      [GitHub repo](https://github.com/NK-dev-24/odin-recipes) (Only style related)
 
 
-### Day 11: May 24, 2024 (friday)
+### Day 11: May 24, 2024 (Friday)
 #### Learning Time: 1h 10m
 
 **Today's Progress**: Flexbox
@@ -125,3 +125,13 @@ HTML Foundations
 
 **Thoughts**: Flex box
 **Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
+
+### Day 12: May 25, 2024 (Saturday)
+#### Learning Time: 3h 30m+
+
+**Today's Progress**: Flexbox
+(Growing and Shrinking, Axes, Alignment)
+
+**Thoughts**: More on Flexbox
+**Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
+**Link(s) to work:** [Live preview]([https://nk-dev-24.github.io/TOP-css-exercises-/tree/main/flex-box](https://github.com/NK-dev-24/TOP-css-exercises-/tree/main/flex))
