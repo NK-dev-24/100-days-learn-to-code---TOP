@@ -135,3 +135,14 @@ HTML Foundations
 **Thoughts**: More on Flexbox
 **Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
 **Link(s) to work:** [Live preview]([https://nk-dev-24.github.io/TOP-css-exercises-/tree/main/flex-box](https://github.com/NK-dev-24/TOP-css-exercises-/tree/main/flex))
+
+
+### Day 13 May 26, 2024 (Sunday)
+#### Learning Time: 2h 45m
+
+**Today's Progress**: Flexbox
+(Alignment)
+
+**Thoughts**: Exersise time
+**Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
+**Link(s) to work:** [Live preview]([https://nk-dev-24.github.io/TOP-css-exercises-/tree/main/flex-box] (https://github.com/NK-dev-24/TOP-css-exercises-/tree/main/flex))
