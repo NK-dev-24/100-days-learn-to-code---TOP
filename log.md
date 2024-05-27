@@ -146,3 +146,14 @@ HTML Foundations
 **Thoughts**: Exersise time
 **Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
 **Link(s) to work:** [Live preview]([https://nk-dev-24.github.io/TOP-css-exercises-/tree/main/flex-box] (https://github.com/NK-dev-24/TOP-css-exercises-/tree/main/flex))
+
+### Day 14 May 27, 2024 (Monday)
+#### Learning Time: 5h 55m+
+
+**Today's Progress**: Flexbox (Alignment, Project: Landing Page)
+
+**Thoughts**: Today I work on exersise and building Landing Page from scratch
+**Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
+**Link(s) to work:** [Repo-Landing Page](https://github.com/NK-dev-24/landingpage), [Repo-Flex](https://github.com/NK-dev-24/TOP-css-exercises-/tree/main/flex)
+
+
