@@ -156,4 +156,11 @@ HTML Foundations
 **Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
 **Link(s) to work:** [Repo-Landing Page](https://github.com/NK-dev-24/landingpage), [Repo-Flex](https://github.com/NK-dev-24/TOP-css-exercises-/tree/main/flex)
 
+### Day 15 May 27, 2024 (Tuesday)
+#### Learning Time: 2h 40m+
 
+**Today's Progress**: Flexbox (Project: Landing Page)
+
+**Thoughts**: building Landing Page from scratch
+**Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
+**Link(s) to work:** [Repo-Landing Page](https://github.com/NK-dev-24/landingpage), [Live-preview](https://nk-dev-24.github.io/landingpage)
