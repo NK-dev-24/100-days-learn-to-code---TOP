@@ -36,7 +36,7 @@
 in the [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics)
 
 
-### Day 3: May 15, 2024 (Wednesday)
+### Day 4: May 15, 2024 (Wednesday)
 #### Learning Time:  1:30+ hr
 
 **Today's Progress**: Completed the Command Line Basics 
@@ -58,6 +58,7 @@ in the [Command Line Basics](https://www.theodinproject.com/lessons/foundations-
 
 ### Friday and Saturday - Unavoidable personal/proferssional work
 
+
 ### Day 6: May 19, 2024 (Sunday)
 #### Learning Time: 2h 30m+ 
 
@@ -68,6 +69,7 @@ HTML Foundations
 **Thoughts**: I previously know the basics of HTML, so it was easy to recall
 
 **Link(s) to course:** [HTML Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
+
 
 ### Day 7: May 20, 2024 (Monday)
 #### Learning Time: 3h
@@ -80,6 +82,7 @@ HTML Foundations
 **Link(s) to course:** [HTML Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
 **Link(s) to work:** [Live preview](https://nk-dev-24.github.io/odin-recipes/)
                       [GitHub repo](https://github.com/NK-dev-24/odin-recipes) (Only HTML)
+
 
 ### Day 8: May 21, 2024 (Tuesday)
 #### Learning Time: 3h+
@@ -105,6 +108,7 @@ HTML Foundations
 **Link(s) to work:** [Live preview](https://nk-dev-24.github.io/odin-recipes/)
                      [GitHub repo](https://github.com/NK-dev-24/odin-recipes) (Only style related)
 
+
 ### Day 10: May 23, 2024 (Thursday)
 #### Learning Time: 4h 10m
 
@@ -125,6 +129,7 @@ HTML Foundations
 
 **Thoughts**: Flex box
 **Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
+
 
 ### Day 12: May 25, 2024 (Saturday)
 #### Learning Time: 3h 30m+
@@ -147,6 +152,7 @@ HTML Foundations
 **Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
 **Link(s) to work:** [Live preview]([https://nk-dev-24.github.io/TOP-css-exercises-/tree/main/flex-box] (https://github.com/NK-dev-24/TOP-css-exercises-/tree/main/flex))
 
+
 ### Day 14 May 27, 2024 (Monday)
 #### Learning Time: 5h 55m+
 
@@ -155,6 +161,7 @@ HTML Foundations
 **Thoughts**: Today I work on exersise and building Landing Page from scratch
 **Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
 **Link(s) to work:** [Repo-Landing Page](https://github.com/NK-dev-24/landingpage), [Repo-Flex](https://github.com/NK-dev-24/TOP-css-exercises-/tree/main/flex)
+
 
 ### Day 15 May 28, 2024 (Tuesday)
 #### Learning Time: 2h 40m+
@@ -166,7 +173,7 @@ HTML Foundations
 **Link(s) to work:** [Repo-Landing Page](https://github.com/NK-dev-24/landingpage), [Live-preview](https://nk-dev-24.github.io/landingpage)
 
 
-### Day 15 May 29, 2024 (Wednesday)
+### Day 16 May 29, 2024 (Wednesday)
 #### Learning Time: 4h 45m+
 
 **Today's Progress**: Flexbox (Project: Landing Page), JavaScript Basics (Variables and Operators)
