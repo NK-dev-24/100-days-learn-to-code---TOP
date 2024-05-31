@@ -181,3 +181,21 @@ HTML Foundations
 **Thoughts**: building Landing Page from scratch and finally started learning JS
 **Link(s) to course:** [Flex Box](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
 **Link(s) to work:** [Repo-Landing Page](https://github.com/NK-dev-24/landingpage), [Live-preview](https://nk-dev-24.github.io/landingpage)
+
+
+### Day 17 May 30, 2024 (Thursday)
+#### Learning Time: 1h 18m
+
+**Today's Progress**: JavaScript Basics (Variables and Operators, Data Types and Conditionals )
+
+**Thoughts**: finally started learning JS
+**Link(s) to course:** [JS](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
+
+
+### Day 18 May 31, 2024 (Friday)
+#### Learning Time: 1h 52m
+
+**Today's Progress**: JavaScript Basics (Variables and Operators, Data Types and Conditionals )
+
+**Thoughts**: learning JS
+**Link(s) to course:** [JS](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
