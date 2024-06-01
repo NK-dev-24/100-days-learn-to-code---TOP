@@ -199,3 +199,12 @@ HTML Foundations
 
 **Thoughts**: learning JS
 **Link(s) to course:** [JS](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
+
+### Day 19 June 1, 2024 (Saturday)
+#### Learning Time: 1h 50m
+
+**Today's Progress**: JavaScript Basics ( Data Types and Conditionals )
+
+**Thoughts**: JS
+**Link(s) to course:** [JS](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
+
